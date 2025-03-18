@@ -6,7 +6,6 @@
 
 I'm a passionate web developer with expertise in Angular, PHP, and Node.js. My main focus is building dynamic and interactive web applications that provide seamless user experiences.
 
-🔭 **Currently:** Refreshing my Node.js skills and actively seeking full-time coding opportunities.
 
 ## Skills and Technologies
 
